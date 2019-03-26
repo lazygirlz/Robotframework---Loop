@@ -29,7 +29,7 @@ Click New Mail
 	Click Element    //div[@class='T-I J-J5-Ji T-I-KE L3' and @role='button' and @style='user-select: none;']
 	
 Add To
-    Input Text    //textarea[@aria-label='ถึง']     pornanan.insri@gmail.com
+    Input Text    //textarea[@aria-label='ถึง']     xxxxxx@gmail.com
 
 Add Subject
     Input Text    //input[@placeholder='เรื่อง']     Test Send by Automate
